@@ -10,9 +10,9 @@ Penerapan metode random forest dalam mendeteksi serangan pada protokol http
     ```
 2. Masuk ke project directory:
     ```bash
-    cd yHttp-Protocol-Attack-Detection
+    cd Http-Protocol-Attack-Detection
     ```
-2. Buat folder baru dan masukkan data di folder tersebut:
+2. Buat folder baru "data" dan masukkan data di folder tersebut:
 3. Install the library yang dibutuhkan (jika belum terinstall):
     ```bash
     pip install pandas
